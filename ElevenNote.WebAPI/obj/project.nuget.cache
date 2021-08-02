@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzPyJ/Cbo0XVBloKEZVr+c0LHXlpzpk83UGUmdXDGb01rOOFvToyEVRNDbxM+pd/NyhBq+zyW+9hSWupGQg7gQ==",
+  "success": true,
+  "projectFilePath": "C:\\1150_Instructor\\BlueBadge.Core\\ElevenNote.WebAPI\\ElevenNote.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\craig\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\craig\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\craig\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\craig\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\craig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\craig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
